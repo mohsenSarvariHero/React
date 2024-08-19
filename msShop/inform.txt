@@ -1,0 +1,17 @@
+1- npm create vite
+2- npm i bootstrap react-bootstrap
+3- npm i react-icons
+4- npm i react-router-dom
+
+backend
+
+npm init
+npm i nodemon
+"scripts": {
+   "start": "nodemon app.js"
+  },
+create app.js
+npm i express
+"main": "app.js",
+
+npm start

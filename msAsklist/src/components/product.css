@@ -1,0 +1,12 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+    margin: 1.2rem auto
+}

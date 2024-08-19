@@ -1,0 +1,30 @@
+.add-product-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2rem 0;
+    gap: 1rem
+}
+
+.form-control input {
+    padding: 0.6rem;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #e0e0e0;
+    font: inherit;
+    color: #e0e0e0;
+    outline: none;
+}
+
+.form-btn {
+    margin: 1rem;
+    background: transparent;
+    border: none;
+    font: inherit;
+    color: #e0e0e0;
+}
+
+.form-btn:hover {
+    border: 2px solid rgb(113, 233, 207);
+    cursor: pointer;
+}

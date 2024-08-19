@@ -1,0 +1,37 @@
+connection with backend 
+install
+npm i json-server
+
+then in package.json 
+eddit 
+ "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "server" : "json-server --watch db.json --port 8000"   <---- add - before create db.json
+  },
+
+in db.json 
+
+like : 
+{
+  "productList": [
+    {
+      "id": "49d3",
+      "title": ";,;l"
+    },
+    {
+      "id": "3dfd",
+      "title": "dsfs"
+    },
+    {
+      "id": "44be",
+      "title": "lkjkl"
+    }
+  ]
+}
+
+then npm server
+
+run server

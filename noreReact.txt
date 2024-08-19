@@ -1,0 +1,10 @@
+install >>> npx create-react-app name
+
+router
+
+npm install react-router-dom
+
+---
+project onlineshop 
+
+npm install --save react-router-dom @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons bootstrap react-bootstrap
