@@ -1,0 +1,16 @@
+.cart {
+    flex-wrap: wrap;
+    display: flex;
+    margin: 0px auto;
+    width: 80%;
+}
+
+.sections {
+    display: flex;
+    flex-direction: column;
+}
+
+.section Link {
+    width: 10px;
+    height: 20px
+}
