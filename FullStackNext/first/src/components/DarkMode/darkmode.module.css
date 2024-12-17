@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+.container {
+    width: 55px;
+    height: 24px;
+    border: 1.5px solid #53c28b70;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 6.5px;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .icon {
+    font-size: 12px;
+  }
+  
+  .ball {
+    width: 20px;
+    height: 22px;
+    background-color: #5355c2;
+    border-radius: 50%;
+    position: absolute;
+    left: 2px; /* Starts on the left */
+    transition: transform 0.3s ease; /* Smooth transition for transform */
+  }
+=======
+.container {
+    width: 55px;
+    height: 24px;
+    border: 1.5px solid #53c28b70;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 6.5px;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .icon {
+    font-size: 12px;
+  }
+  
+  .ball {
+    width: 20px;
+    height: 22px;
+    background-color: #5355c2;
+    border-radius: 50%;
+    position: absolute;
+    left: 2px; /* Starts on the left */
+    transition: transform 0.3s ease; /* Smooth transition for transform */
+  }
+>>>>>>> 91eb025d213b349f0940b74f78dae0b98895365a
+  

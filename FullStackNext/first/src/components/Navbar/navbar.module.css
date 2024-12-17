@@ -1,0 +1,50 @@
+<<<<<<< HEAD
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
+.logo{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    gap : 20px;
+    align-items: center;
+}
+.logout{
+    padding: 5px;
+    border: none;
+    background-color: #53c28b;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+=======
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
+.logo{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    gap : 20px;
+    align-items: center;
+}
+.logout{
+    padding: 5px;
+    border: none;
+    background-color: #53c28b;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+>>>>>>> 91eb025d213b349f0940b74f78dae0b98895365a
+}

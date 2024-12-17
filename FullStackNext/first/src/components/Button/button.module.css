@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+.container{
+    padding : 20px;
+    cursor: pointer;
+    background-color: #53c28b;
+    border: none;
+    border-radius: 5px;
+    width: max-content;
+    color: white;
+=======
+.container{
+    padding : 20px;
+    cursor: pointer;
+    background-color: #53c28b;
+    border: none;
+    border-radius: 5px;
+    width: max-content;
+    color: white;
+>>>>>>> 91eb025d213b349f0940b74f78dae0b98895365a
+  }

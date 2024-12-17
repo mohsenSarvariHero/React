@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+.container{
+    margin-top: 50px;
+}
+.title{
+    font-size: 80px;
+}
+.desc{
+    font-size: 40px;
+}
+.imgcontainer{
+  border: 5px solid #bbb;
+  border-radius: 5px;
+  position: relative;
+}
+.picture{
+    display: flex;
+    gap: 50px;
+}
+.caption{
+    margin-top: -60px;
+    background: rgb(8, 77, 2);
+    position: absolute;
+    margin-left: 10px;
+}
+.caption1{
+    background-image: url("/apps.jpg");
+    margin-top: -60px;
+    background: rgb(8, 77, 2);
+    position: absolute;
+    margin-left: 10px;
+}
+.caption:hover{
+    color: blue;
+}
+=======
+.container{
+    margin-top: 50px;
+}
+.title{
+    font-size: 80px;
+}
+.desc{
+    font-size: 40px;
+}
+.imgcontainer{
+  border: 5px solid #bbb;
+  border-radius: 5px;
+  position: relative;
+}
+.picture{
+    display: flex;
+    gap: 50px;
+}
+.caption{
+    margin-top: -60px;
+    background: rgb(8, 77, 2);
+    position: absolute;
+    margin-left: 10px;
+}
+.caption1{
+    background-image: url("/apps.jpg");
+    margin-top: -60px;
+    background: rgb(8, 77, 2);
+    position: absolute;
+    margin-left: 10px;
+}
+.caption:hover{
+    color: blue;
+}
+>>>>>>> 91eb025d213b349f0940b74f78dae0b98895365a
