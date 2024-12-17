@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+.header{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.headerleft , .headerright {
+    flex: 1;
+=======
+.header{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.headerleft , .headerright {
+    flex: 1;
+>>>>>>> 91eb025d213b349f0940b74f78dae0b98895365a
+}
